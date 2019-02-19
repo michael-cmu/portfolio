@@ -57,3 +57,32 @@ Therefore, in order to impress this point upon the audience I decided to see if 
 
 ## With this multiple Y-axis chart it is more apparant that the US pictured in the bright red spends the most and has the lowest health outcome. The axises are scaled more accurately which I believes gives the audience a better version of the data. 
 
+# Final Project Part 2
+
+## First step was to sketch and storyboard the critical elements of my story. For my final project I am focusing on the impact of healthcare data breaches. 
+
+## Here are the first iterations of the story
+![Story_part1](/story_1.jpg)
+![Story_part2](/story_2.jpg)
+
+## The next step was to develop a user research protocol and document the findings. I was fortunate to be attending a health IT conference and solicited feedback from users that were at the conference. 
+
+## Detailed User Research:
+-Target Audience: Healthcare executives with limited time and patient data activists
+-Individuals were identified based on their interest in healthcare interoperability and experessed interested in data protection
+-Script questions: Can you explain to me what this story is telling you? What questions come to mind when looking at this visualization? Can you explain this graphic to me? What is the overall message of this story?
+
+## I took these questions and sampled 4 individuals at the conference, 2 who were executives at regional health systems and 2 that worked in healthIT and were interested in data protection. I added their feedback along side the sketches as seen below:
+
+![Story_feedback1](/storyfeedback_1.jpg)
+![Story_feedback2](/storyfeedback_2.jpg)
+
+## Armed with this information I sought out to redesign my story in a way that would appeal to the target audience. I wanted to convey the information I had found from https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf which details the years records of health data breaches that have been reported to the Office of Civil Rights within the US Department of Health and Human Services. 
+
+# The result was this preliminary story map!
+
+https://arcg.is/19zfOq
+
+## more to come soon!
+
+

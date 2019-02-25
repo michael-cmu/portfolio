@@ -85,9 +85,11 @@ This was then translated into ArcGis StoryMaps.
 
 # Part III: Final Data Story
 As part of the design process, I created these personas to model the desired audience for this story. 
-#### Lisa Thompson: ![Lisa](https://michael-cmu.github.io/portfolio/Lisa.png)
+#### Lisa Thompson: 
+![Lisa](https://michael-cmu.github.io/portfolio/Lisa.PNG)
 > The busy healthcare director in an organization that seeks to understand more about healthcare current events. 
-#### Philip Daniel: ![Philip](https://michael-cmu.github.io/portfolio/Philip.png)
+#### Philip Daniel: 
+![Philip](https://michael-cmu.github.io/portfolio/Philip.PNG)
 > A hardworking machinist for the local manufacturing plant, who has had a series of health issues that have had him in and out of the hospital. 
 Both of these individuals are interested in learning more about how health data breaches happen and affect them. For Lisa I created actionable policy items in the concluding parts of my StoryMaps to better detail what she can do at her healthcare organization to reduce the risk for health data breaches. For Philip (a concerned citizen) I created the first visual that immediately draws his attention as he has received medical care in Kentucky, which was affected by health data breaches last year. 
 *Personas Generated Using: https://www.hubspot.com/make-my-persona

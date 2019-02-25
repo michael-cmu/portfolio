@@ -58,8 +58,8 @@ The process to create this story is detailed further in the user research and de
 First step was to sketch and storyboard the critical elements of my story. Based on preliminary user feedback I am focusing on the impact of healthcare data breaches in the United States. 
 
 Here are the first iterations of the story:
-![Story_part1](/portfolio/story_1.jpg) 
-![Story_part2](/portfolio/story_2.jpg)
+![Story_part1](https://michael-cmu.github.io/portfolio/story_1.jpg) 
+![Story_part2](https://michael-cmu.github.io/portfolio/story_2.jpg)
 
 ### User Research
 * Target Audience: Healthcare executives with limited time and patient data activists 
@@ -71,8 +71,8 @@ Here are the first iterations of the story:
 
 #### Sampled Feedback
 I took these questions and sampled 4 individuals at the conference, 2 who were executives at regional health systems and 2 that worked in healthIT and were interested in data protection. I added their feedback along side the sketches as seen below:
-![Story_feedback1](/portfolio/storyfeedback_1.jpg) 
-![Story_feedback2](/portfolio/storyfeedback_2.jpg)
+![Story_feedback1](https://michael-cmu.github.io/portfolio/storyfeedback_1.jpg) 
+![Story_feedback2](https://michael-cmu.github.io/portfolio/storyfeedback_1.jpg)
 
 ### Iterative Design
 Armed with this information I sought out to redesign my story in a way that would appeal to the target audience. I wanted to convey the information I had found from https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf which details the years records of health data breaches that have been reported to the Office of Civil Rights within the US Department of Health and Human Services.
@@ -84,4 +84,22 @@ In the digital age, our personal health records are vunerable to being stolen, l
 This was then translated into ArcGis StoryMaps. 
 
 # Part III: Final Data Story
+As part of the design process, I created these personas to model the desired audience for this story. 
+#### Lisa Thompson: ![Lisa](https://michael-cmu.github.io/portfolio/Lisa.pdf)
+> The busy healthcare director in an organization that seeks to understand more about healthcare current events. 
+#### Philip Daniel: ![Philip](https://michael-cmu.github.io/portfolio/Philip.pdf)
+> A hardworking machinist for the local manufacturing plant, who has had a series of health issues that have had him in and out of the hospital. 
+Both of these individuals are interested in learning more about how health data breaches happen and affect them. For Lisa I created actionable policy items in the concluding parts of my StoryMaps to better detail what she can do at her healthcare organization to reduce the risk for health data breaches. For Philip (a concerned citizen) I created the first visual that immediately draws his attention as he has received medical care in Kentucky, which was affected by health data breaches last year. 
+*Personas Generated Using: https://www.hubspot.com/make-my-persona
 
+
+A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.)Links to an external site..  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
+Make sure to add / update any citations and / or other content that helps round out your data story. (Part III)
+
+# Citations:
+* Data from the Office of Civil Rights, Department of Health and Human Services  https://ocrportal.hhs.gov/ocr/smartscreen/main.jsf
+* Images Sourced using ArcGis StoryMaps open source image finder
+* Esri ArcGis StoryMaps https://storymaps.arcgis.com/en/

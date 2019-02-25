@@ -14,6 +14,8 @@ I hope to learn how to create stunning and powerful visualizations of data to he
 
 ## Portfolio
 
+Here's a link to my final project [Final Project](finalproject.md)
+
 <details><summary>OECD Data Viz Expand</summary>
 <p>
 <iframe src="https://data.oecd.org/chart/5sqC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5sqC" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>

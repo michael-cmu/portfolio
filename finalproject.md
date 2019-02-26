@@ -1,5 +1,7 @@
-## Here is how I created my StoryMaps, "Your Health Data Up for Grabs": 
+## "Your Health Data Up for Grabs" 
 https://arcg.is/19zfOq
+# Behind the Scenes 
+## *Creating a StoryMap: 
 # Part I: Idea
 ## Summary
 Originally this idea started as a way to showcase how health information was being used. 
@@ -94,14 +96,26 @@ As part of the design process, I created these personas to model the desired aud
 Both of these individuals are interested in learning more about how health data breaches happen and affect them. For Lisa I created actionable policy items in the concluding parts of my StoryMaps to better detail what she can do at her healthcare organization to reduce the risk for health data breaches. For Philip (a concerned citizen) I created the first visual that immediately draws his attention as he has received medical care in Kentucky, which was affected by health data breaches last year. 
 *Personas Generated Using: https://www.hubspot.com/make-my-persona
 
+## Design Decisions
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.)Links to an external site..  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-Make sure to add / update any citations and / or other content that helps round out your data story. (Part III)
+When creating this StoryMap, I struggled between visual engagement and readability. The initial map for example; this map orginally displayed a symbolized map with concentric circles detailing the number of data breaches. This proved to be interesting to look at; however, was not easily understood by the target audience. 
+
+As I continued to develop this project, I constantly sought out the advice of my peers in the healthcare program. While they are not quite the entire target audience of this piece, their insights proved critical for the end product that I have published here. Specifically, there feedback on sizing on text, clarity of visualizations, as well as the ordering of the story's sections were feedback that I had orginally not thought of. 
+
+## Key Takeaways
+* Telling Stories with Data is a iterative process that requires many inputs to generate a single output. 
+* Great design is not static, it comes from continuous updating to suit the needs/wants of the desired audience
+* Clear and concise visuals are better than flashy and obtuse visuals
+* Always ask for help, I learned the most during this project from the feedback I received from others. 
+
+# Final Story Link:
+
+https://arcg.is/19zfOq
 
 # Citations:
 * Data from the Office of Civil Rights, Department of Health and Human Services  https://ocrportal.hhs.gov/ocr/smartscreen/main.jsf
 * Images Sourced using ArcGis StoryMaps open source image finder
 * Esri ArcGis StoryMaps https://storymaps.arcgis.com/en/
+* Persona Generator Hubspot https://www.hubspot.com/make-my-persona
+
+### Cheers! *-Michael

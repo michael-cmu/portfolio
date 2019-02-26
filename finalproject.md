@@ -118,4 +118,4 @@ https://arcg.is/19zfOq
 * Esri ArcGis StoryMaps https://storymaps.arcgis.com/en/
 * Persona Generator Hubspot https://www.hubspot.com/make-my-persona
 
-### Cheers! *-Michael
+*Cheers! -Michael

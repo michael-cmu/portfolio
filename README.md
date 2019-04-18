@@ -1,5 +1,5 @@
 # Portfolio
-This is my public portfolio for the Telling Stories with Data Class at CMU
+This is my public portfolio during my time at Carnegie Mellon University. 
 
 # About me
 Hi! I am a second-year Health Care in Policy and Management Masters Candidate at Carnegie Mellon University's Heinz College.

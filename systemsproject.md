@@ -1,6 +1,6 @@
 <h1>Using Advanced Analytics to Address the Opioid Epidemic</h1>
 <h2>A Carnegie Mellon University, Heinz College + SAS Institute Partnership</h2>
-![SystemsPosterInforms](CMU_INFORMS_OPIOIDPOSTER (1)-page-001.jpg)
+![SystemsPosterInforms](https://github.com/michael-cmu/portfolio/blob/master/CMU_INFORMS_OPIOIDPOSTER%20(1)-page-001.jpg)
 <h3>Executive Summary</h3>
 <p>The Heinz College Opioid Action Team—comprised of Masters candidates
 from the Health Care, Public Policy, and Information Sciences Management
